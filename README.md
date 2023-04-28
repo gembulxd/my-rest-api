@@ -18,7 +18,7 @@
   <img src="https://github.com/zeeoneofficial.png" /></>
 </p>
 
-- 👼 My name is Zeeone 
+- 👼 My name is YogzzDevX
 - 🗣️ I am 18 years old 
 - 🔭 I am not programmer
 
