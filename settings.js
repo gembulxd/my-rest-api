@@ -1,8 +1,8 @@
 const fs = require('fs')
 
 global.creator = 'AnjasGG'// yourname
-global.MONGO_DB_URI = "" //database mongodb 
-global.ACTIVATION_TOKEN_SECRET = "-@Pqnap+@(/1jAPPnew/@10" //isi apa aja bebas
+global.MONGO_DB_URI = "bowwo924" //database mongodb 
+global.ACTIVATION_TOKEN_SECRET = "sX3f7xD7z01GlxhZ" //isi apa aja bebas
 global.your_email = "bowwo924@gmail.com" //email
 global.email_password = "ixhjjsexnjcdkxjg" //application password email
 global.limitCount = 10000
